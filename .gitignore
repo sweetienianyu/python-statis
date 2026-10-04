@@ -1,0 +1,15 @@
+# 生成的示例数据与报表产物，可由脚本重新生成
+data/
+output/
+
+# 本地密钥 / 配置，绝不提交
+.env
+config.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
